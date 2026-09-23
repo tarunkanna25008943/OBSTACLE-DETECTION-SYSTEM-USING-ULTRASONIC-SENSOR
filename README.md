@@ -19,9 +19,9 @@ Tinkercad provides a simulation environment where this circuit can be virtually 
 
 
 ## Circuit Diagram:
-<img width="1425" height="596" alt="Screenshot 2026-09-23 100627" src="https://github.com/user-attachments/assets/b3a61cdb-7afc-4f93-a0cd-762c9d27237d" />
-<img width="1432" height="592" alt="Screenshot 2026-09-23 100839" src="https://github.com/user-attachments/assets/6e3ba698-b0b2-461a-9f49-7e7f9874888d" />
- 
+<img width="1405" height="587" alt="Screenshot 2026-09-23 104255" src="https://github.com/user-attachments/assets/cadb1c8d-9be6-475e-88d5-167b21a2a78e" />
+<img width="1430" height="586" alt="Screenshot 2026-09-23 104403" src="https://github.com/user-attachments/assets/54a44757-dde5-4bb7-8bc1-c63d51f4faf2" />
+
 ## Procedure: //Modify the procedure based on your circuit
 
 Step 1: Set Up the Tinkercad Environment
